@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "engines": {
     //"node": "15.14.0"
-    "node": "^15"
+    "node": "^15.14.0"
   },
   "scripts": {
     "ng": "ng",
